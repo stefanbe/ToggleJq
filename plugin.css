@@ -1,0 +1,10 @@
+a.toggle-link {
+    /*font-family: Courier, 'Courier New', monospace;*/
+    text-decoration:none;
+    font-weight:bold;
+}
+
+img.toggle-link {
+    cursor:pointer;
+    vertical-align:middle;
+}
